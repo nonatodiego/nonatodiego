@@ -17,3 +17,4 @@
 - JavaScript
   - React.js
   - Node.js
+- UI / UX  
