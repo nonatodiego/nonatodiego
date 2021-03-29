@@ -3,7 +3,7 @@
 <!--
 **nonatodiego/nonatodiego** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
-🌱Dev. Frontend Jr. | Aluno da Rocketseat bootcamp Launchbase <br>
+🌱Dev. Frontend Jr. | Aluno da Rocketseat Ignite - Trilha ReactJS <br>
 ⚡ Meus ultimos projetos [aqui](https://diegononato.netlify.app/)
 
 
