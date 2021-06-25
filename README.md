@@ -16,4 +16,3 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nonatodiego&hide=php)](https://github.com/nonatodiego/github-readme-stats)
 
 
-https://linktr.ee/diegononato
