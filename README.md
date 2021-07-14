@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Diego Nonato</h1>
-<h3 align="center">Dev.Frontend Jr</h3>
+<h3 align="center">Frontend Jr</h3>
 
 <p align="left"> <a href="https://twitter.com/diegononatobr" target="blank"><img src="https://img.shields.io/twitter/follow/diegononatobr?logo=twitter&style=for-the-badge" alt="diegononatobr" /></a> </p>
 
