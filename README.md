@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **React JS, Typescript**
 
-- 👨‍💻 All of my projects are available at <a href="diegononato.vercel.app/">Meu Portfolio</a>
+- 👨‍💻 All of my projects are available at <a href="https://diegononato.vercel.app/">Meu Portfolio</a>
 
 - 💬 Ask me about **javascript, Sass, bootstrap**
 
