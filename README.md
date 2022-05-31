@@ -8,7 +8,7 @@
   
 </p>
 
-- 🌱 I’m currently learning **React JS, Typescript**
+- 🌱 I’m currently learning **React JS, Typescript** | PUC - Sistemas para Internet
 
 - 👨‍💻 All of my projects are available at <a href="https://diegononato.vercel.app/">Meu Portfolio</a>
 
