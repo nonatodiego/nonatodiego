@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **React JS, Typescript** | PUC - Sistemas para Internet
 
-- 👨‍💻 All of my projects are available at <a href="https://diegononato.vercel.app/](https://github.com/nonatodiego/portfolio">Meu Portfolio</a>
+- 👨‍💻 All of my projects are available at <a href="https://diegononato.netlify.app/">Meu Portfolio</a>
 
 - 💬 Ask me about **javascript, Sass, bootstrap**
 
