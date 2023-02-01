@@ -1,5 +1,5 @@
 # 💫 Sobre mim:
-🌱 Atualmente estudando JS,React, Typescript | PUC - Sistemas para Internet<br><br>👨‍💻Todos meus projetos estão disponíveis aqui<br><br>💬 Me pergunte sobre javascript, Sass, bootstrap<br><br>📫 Você pode entrar em contato comigo pelo email nonatodiego@hotmail.com<br><br>⚡ Um fato aleatório sobre mim, eu já fui jogador profissional de FIFA
+🌱 Atualmente estudando JS,React,Typescript | PUC - Sistemas para Internet<br><br>👨‍💻Todos meus projetos estão disponíveis aqui<br><br>💬 Me pergunte sobre javascript, Sass, bootstrap<br><br>📫 Você pode entrar em contato comigo pelo email nonatodiego@hotmail.com<br><br>⚡ Um fato aleatório sobre mim, eu já fui jogador profissional de FIFA
 
 
 ## 🌐 Socials:
