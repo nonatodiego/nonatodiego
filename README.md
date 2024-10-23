@@ -1,8 +1,8 @@
 <h1 align="center">Oi 👋 meu nome é Diego</h1>
-<h3 align="center">Desenvolvedor frontend</h3>
+<h3 align="center">Apaixonado por desenvolvimento frontend, atualmente trabalhando com infraestrutura de T.I</h3>
 
 <p align="left">
-  Meu nome é Diego Nonato, tenho 27 anos e sou natural do Rio de Janeiro. Atualmente, sou estudante do segundo período do curso de Sistemas para Internet na PUC Minas EAD, onde estou aprendendo a criar soluções inovadoras para a internet. Meu objetivo é ser desenvolvedor frontend para poder trabalhar em projetos que tenham impacto na vida das pessoas e que possam mudar o mundo para melhor
+  Meu nome é Diego Nonato, tenho 28 anos e sou natural do Rio de Janeiro. Atualmente, sou estudante do quinto período do curso de Sistemas para Internet na PUC Minas EAD, onde estou aprendendo a criar soluções inovadoras para a internet. Meu objetivo é ser desenvolvedor frontend para poder trabalhar em projetos que tenham impacto na vida das pessoas e que possam mudar o mundo para melhor
 </p>
 
 <p align="left">
