@@ -1,7 +1,7 @@
 <h1 align="center">Oi 👋 meu nome é Diego</h1>
 
 
-- 🔭 Atualmente estudando na [PUC Minas](https://github.com/ICEI-PUC-Minas-PMV-SInt)
+- 🔭 Formado em Sistemas para Internet na [PUC Minas](https://github.com/ICEI-PUC-Minas-PMV-SInt)
 
 - 🌱 Estudando **React & Typescript**
 
