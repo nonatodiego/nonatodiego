@@ -1,9 +1,5 @@
 <h1 align="center">Oi 👋 meu nome é Diego</h1>
-<h3 align="center">Apaixonado por desenvolvimento frontend, atualmente trabalhando com infraestrutura de T.I</h3>
 
-<p align="left">
-  Meu nome é Diego Nonato, tenho 28 anos e sou natural do Rio de Janeiro
-</p>
 
 - 🔭 Atualmente estudando na [PUC Minas](https://github.com/ICEI-PUC-Minas-PMV-SInt)
 
